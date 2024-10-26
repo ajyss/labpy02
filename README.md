@@ -10,7 +10,7 @@ Kelas : TI,24.A.3
 
 ## Flowchart
 
-<img src="BIOSKOPP.drawio.png">
+<img src="TiketBioskop.jpg">
 
 ## Input Program
 
@@ -38,7 +38,7 @@ Kelas : TI,24.A.3
 
 ## Flowchart
 
-<img src="kalkulator.drawio.png">
+<img src="kalkulator.jpg">
 
 ## Input Program
 
